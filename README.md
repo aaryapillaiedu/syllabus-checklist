@@ -17,7 +17,6 @@ Tracking assignments and their deadlines for different courses is tedious and sc
 
 
 ![System diagram](docs/CS193_FinalProject_Flowchart.jpg)
-[Eisenhower matrix](docs/CS 193 Final Project - Eisenhower Matrix.pdf)
 
 ## Tech Stack
 
